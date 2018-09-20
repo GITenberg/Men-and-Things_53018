@@ -1,0 +1,34 @@
+_repo: Men-and-Things_53018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atkinson, Henry A.
+    alias: Atkinson, Henry Avery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '47175'
+    url: http://www.gutenberg.org/2009/agents/47175
+description: ''
+gutenberg_issued: '2016-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian sociology'
+- !lcc 'HN'
+- !lcsh 'Labor movement -- United States'
+- !lcsh 'Labor -- United States'
+- !lcsh 'Working class -- United States'
+- GITenberg
+tableOfContents: Foreword -- The world of work -- The world of the rural workers --
+  The world of the spinners and weavers -- The world of the garment workers -- The
+  world of the miners -- The world of the steel workers -- The world of the transportation
+  men -- The world of the makers of luxuries -- The world of seasonal labor and the
+  casual workers -- The world of industrial women -- The world of the child workers
+  -- The message and ministry of the church -- Bibliography.
+title: Men and Things
+url: http://www.gutenberg.org/ebooks/53018
