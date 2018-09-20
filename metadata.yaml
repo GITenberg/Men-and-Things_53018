@@ -1,5 +1,8 @@
 _repo: Men-and-Things_53018
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53018-h/images/cover.jpg
 creator:
   author:
     agent_name: Atkinson, Henry A.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47175'
     url: http://www.gutenberg.org/2009/agents/47175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53018#Men-and-Things
 gutenberg_issued: '2016-09-09'
 gutenberg_type: Text
 identifiers:
